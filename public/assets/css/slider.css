@@ -1,0 +1,8 @@
+.mainSlide{
+    width:1400px; margin:0 auto;
+}
+@media screen and (max-width:1400px){
+    .mainSlide{
+        width:100%;
+    }
+}
